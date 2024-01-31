@@ -8,23 +8,23 @@ Key Features:
 
 Rating Filtering: Easily filter restaurants based on user ratings to discover top-rated dining options.
 
-    •Location-Based Search: Seamlessly explore restaurants in specific locations, making it convenient for users to find dining options in their preferred areas.
+•Location-Based Search: Seamlessly explore restaurants in specific locations, making it convenient for users to find dining options in their preferred areas.
 
-    •Interactive Maps: Visualize restaurant locations on maps for a more intuitive understanding of their geographical distribution.
+•Interactive Maps: Visualize restaurant locations on maps for a more intuitive understanding of their geographical distribution.
 
-    •Comprehensive Information: Access detailed information about each restaurant, including its address, rating, food type, minimum delivery time, and more.
+•Comprehensive Information: Access detailed information about each restaurant, including its address, rating, food type, minimum delivery time, and more.
 
-    •User-Friendly Interface: The dashboard is designed with a user-friendly interface, ensuring a smooth and enjoyable experience for users navigating through the restaurant data.
+•User-Friendly Interface: The dashboard is designed with a user-friendly interface, ensuring a smooth and enjoyable experience for users navigating through the restaurant data.
 
 How to Use:
 
-    •Clone or Download: Clone or download the repository to your local machine.
+•Clone or Download: Clone or download the repository to your local machine.
     
-    •Open with Power BI: Open the dashboard using Power BI to leverage its interactive features.
+•Open with Power BI: Open the dashboard using Power BI to leverage its interactive features.
     
-    •Explore Restaurants: Use the various filters and features to explore restaurants based on your preferences.
+•Explore Restaurants: Use the various filters and features to explore restaurants based on your preferences.
     
-    •Make Informed Decisions: Make informed decisions about your dining choices by leveraging the comprehensive information provided for each restaurant.
+•Make Informed Decisions: Make informed decisions about your dining choices by leveraging the comprehensive information provided for each restaurant.
     
 Contributions:
 
